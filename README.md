@@ -6,4 +6,4 @@ daftar-biodata-siswa
 - Pedro
 - Brito
 - Rico
-  
+- Adil
